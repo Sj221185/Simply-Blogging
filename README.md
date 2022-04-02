@@ -1,1 +1,1 @@
-# Simply-Blogging
+# Blogging
